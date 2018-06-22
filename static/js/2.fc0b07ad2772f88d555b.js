@@ -1,0 +1,2 @@
+webpackJsonp([2],{"34W9":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={computed:{message:function(){return"特朗普说这个页面你不能进......"}}},s=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",{},[e._v(e._s(e.message))])},u=[],l={render:s,staticRenderFns:u},a=l,c=t("vSla"),i=c(r,a,!1,null,null,null);n.default=i.exports}});
+//# sourceMappingURL=2.fc0b07ad2772f88d555b.js.map
